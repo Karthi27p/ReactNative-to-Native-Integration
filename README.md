@@ -4,6 +4,7 @@
 * To run the app follow the below steps
 
    * cd reactnative from the root of the project
+   * npm install
    * npm run build:ios
    * cd ios from the root of the project
    * pod install
